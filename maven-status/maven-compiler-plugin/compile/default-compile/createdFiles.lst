@@ -1,0 +1,12 @@
+com\example\customfoods\ShopGUI$1.class
+com\example\customfoods\ShopGUI$ShopSession.class
+com\example\customfoods\FoodRegistry.class
+com\example\customfoods\FoodListeners.class
+com\example\customfoods\FoodRegistry$FoodData$FoodType.class
+com\example\customfoods\CustomFoodsPlugin.class
+com\example\customfoods\RecipeBookIntegration.class
+com\example\customfoods\RecipeManager.class
+com\example\customfoods\FoodCommand.class
+com\example\customfoods\FoodRegistry$FoodData.class
+com\example\customfoods\FoodCommand$1.class
+com\example\customfoods\ShopGUI.class

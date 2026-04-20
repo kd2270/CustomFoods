@@ -1,0 +1,30 @@
+name: CustomFoods
+version: 1.0.0
+main: com.example.customfoods.CustomFoodsPlugin
+api-version: "1.21"
+description: Adds custom meals, drinks, and crop foods with a shop GUI and recipe book integration.
+authors: [YourName]
+website: ""
+
+commands:
+  customfoods:
+    description: Open the food shop or manage custom food items.
+    usage: /customfoods [shop|list|recipe|give|discover]
+    aliases: [cf, food, foodshop]
+
+permissions:
+  customfoods.shop:
+    description: Allows opening the food shop.
+    default: true
+  customfoods.list:
+    description: Allows listing all custom food IDs.
+    default: true
+  customfoods.recipe:
+    description: Allows viewing recipe info in chat.
+    default: true
+  customfoods.give:
+    description: Allows giving custom food items to players.
+    default: op
+  customfoods.admin:
+    description: Admin permissions (discover, reload).
+    default: op

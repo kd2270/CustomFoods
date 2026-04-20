@@ -1,0 +1,21 @@
+# ─────────────────────────────────────────────
+#  CustomFoods Configuration
+#  Plugin version: 1.0.0
+# ─────────────────────────────────────────────
+
+# General
+show-effect-messages: true
+food-multiplier: 1.0
+
+# Shop Settings
+shop:
+  # Currency item type (vanilla material name)
+  currency: EMERALD
+  # Display name for the currency in the shop
+  currency-name: "Emerald"
+
+# Recipe Book Settings
+recipe-book:
+  # If true, all custom food recipes are revealed to players the moment they join.
+  # Set to false if you want players to discover recipes by picking up ingredients.
+  unlock-all-on-join: true
