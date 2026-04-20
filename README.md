@@ -7,6 +7,8 @@ Edit each to match below:
 
 
 require-resource-pack=true
+
+
 resource-pack=https\://github.com/kd2270/CustomFoods/blob/main/CustomFoods_ResourcePack.zip
 
 Restart your server. 
