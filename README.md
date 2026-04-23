@@ -12,3 +12,9 @@ require-resource-pack=true
 resource-pack=https\://github.com/kd2270/CustomFoods/blob/main/CustomFoods_ResourcePack.zip
 
 Restart your server. 
+
+
+
+Alternatively you can use this location which will have other testing files.
+
+https://github.com/kd2270/CustomFoods/blob/main/KS_ResourcePack.zip
